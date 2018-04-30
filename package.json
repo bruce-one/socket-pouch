@@ -43,6 +43,7 @@
     "inherits": "^2.0.1",
     "lie": "^2.6.0",
     "pouchdb": "^6.0.0",
+    "pouchdb-adapter-memory": "^6.4.3",
     "pouchdb-binary-util": "^1.0.0",
     "pouchdb-promise": "^6.0.7",
     "socket.io": "^2.1.0",
